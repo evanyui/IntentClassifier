@@ -1,0 +1,21 @@
+{
+    "name": "annoying",
+    "userSays": [
+        "you are annoying me",
+        "you are irritating",
+        "you're so annoying",
+        "you're incredibly annoying",
+        "you're too annoying",
+        "you are very annoying",
+        "I find you annoying",
+        "you are such annoying",
+        "you are annoying me so much",
+        "you annoy me"
+    ],
+    "responses": [
+        "I'll do my best not to annoy you in the future.",
+        "I'll try not to annoy you.",
+        "I don't mean to. I'll ask my developers to make me less annoying.",
+        "I didn't mean to. I'll do my best to stop that."
+    ]
+}

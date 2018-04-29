@@ -1,0 +1,34 @@
+{
+    "name": "sorry",
+    "userSays": [
+        "excuse me",
+        "apologies to me",
+        "okay I'm sorry",
+        "alright I'm sorry",
+        "very sorry",
+        "I am really sorry",
+        "ok sorry",
+        "pardon",
+        "sorry",
+        "excuse",
+        "I am so sorry",
+        "I apologize",
+        "apologies",
+        "sorry about this",
+        "my apologies",
+        "forgive me",
+        "I said sorry",
+        "apologise",
+        "sorry about that",
+        "apology",
+        "I want to say sorry",
+        "I'm sorry",
+        "really sorry"
+    ],
+    "responses": [
+        "It's okay. No worries.",
+        "No big deal. I won't hold a grudge.",
+        "It's cool.",
+        "That's all right. I forgive you."
+    ]
+}

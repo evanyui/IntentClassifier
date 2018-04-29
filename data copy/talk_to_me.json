@@ -1,0 +1,22 @@
+{
+    "name": "talk_to_me",
+    "userSays": [
+        "can you talk with me",
+        "speak to me",
+        "chat with me",
+        "talk to me",
+        "can you speak with me",
+        "can you talk to me",
+        "why aren't you talking to me",
+        "speak with me",
+        "can you chat with me",
+        "you can talk to me",
+        "just chat with me",
+        "talk with me",
+        "do you want to chat with me"
+    ],
+    "responses": [
+        "Sure. Let's talk!",
+        "My pleasure. Let's chat."
+    ]
+}

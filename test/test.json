@@ -1,0 +1,56 @@
+{
+    "tests": [
+        {
+            "utterance": "tell me about yourself",
+            "intent": "acquaintance"
+        },
+        {
+            "utterance": "how old are you?",
+            "intent": "age"
+        },
+        {
+            "utterance": "alright, see you later",
+            "intent": "bye"
+        },
+        {
+            "utterance": "I can't go to sleep",
+            "intent": "sleep"
+        },
+        {
+            "utterance": "can you please help me",
+            "intent": "help"
+        },
+        {
+            "utterance": "good evening",
+            "intent": "goodevening"
+        },
+        {
+            "utterance": "good morning man",
+            "intent": "goodmorning"
+        },
+        {
+            "utterance": "sleep tight",
+            "intent": "goodnight"
+        },
+        {
+            "utterance": "hi man",
+            "intent": "hello"
+        },
+        {
+            "utterance": "how are you mate?",
+            "intent": "how_are_you"
+        },
+        {
+            "utterance": "I am feeling lonely",
+            "intent": "lonely"
+        },
+        {
+            "utterance": "I feel so sad",
+            "intent": "sad"
+        },
+        {
+            "utterance": "you are so stupid",
+            "intent": "bad"
+        }
+    ]
+}

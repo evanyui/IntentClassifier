@@ -1,0 +1,16 @@
+{
+    "name": "hold_on",
+    "userSays": [
+        "wait hold ",
+        "oh wait",
+        "wait a second",
+        "wait",
+        "could you wait",
+        "wait please"
+    ],
+    "responses": [
+        "I can wait.",
+        "I'll be waiting.",
+        "Okay. I'm here."
+    ]
+}

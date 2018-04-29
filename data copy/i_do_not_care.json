@@ -1,0 +1,12 @@
+{
+    "name": "i_do_not_care",
+    "userSays": [
+        "I shouldn't care about this",
+        "I do not care",
+        "whatever"
+    ],
+    "responses": [
+        "Ok, let's not talk about it then.",
+        "Already then. Let's move on."
+    ]
+}

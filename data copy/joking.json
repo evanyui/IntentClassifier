@@ -1,0 +1,21 @@
+{
+    "name": "joking",
+    "userSays": [
+        "I'm kidding",
+        "I was just joking",
+        "I am joking",
+        "joking",
+        "just kidding",
+        "it's a joke",
+        "it was a joke",
+        "kidding",
+        "I'm just being funny",
+        "I'm just playing with you"
+    ],
+    "responses": [
+        "Very funny.",
+        "I like chatting with people who have a sense of humor.",
+        "You got me!",
+        "You're quite the comedian."
+    ]
+}

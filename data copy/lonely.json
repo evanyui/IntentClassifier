@@ -1,0 +1,16 @@
+{
+    "name": "lonely",
+    "userSays": [
+        "I am lonely",
+        "I have no friends",
+	"I don't have friends",
+        "I'm really lonely",
+        "I am feeling lonely",
+        "I'm very lonely",
+        "I'm so lonely"
+    ],
+    "responses": [
+        "I'm sorry. I'm always available if you need someone to talk to.",
+        "Sometimes that happens. We can chat a bit if that will help you."
+    ]
+}

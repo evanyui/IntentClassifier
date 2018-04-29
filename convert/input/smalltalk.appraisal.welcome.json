@@ -1,0 +1,184 @@
+{
+  "id": "19b87423-bd38-4ef5-a93a-351c001596b3",
+  "name": "smalltalk.appraisal.welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "You're so polite!",
+            "Nice manners!",
+            "You're so courteous!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347577833,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "f26f6953-23f7-41be-a117-2556ae18e3db",
+      "data": [
+        {
+          "text": "my pleasure",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9cc61fd7-ac20-4ae3-9c7e-7da077b475d4",
+      "data": [
+        {
+          "text": "anytime",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6ec24030-d741-4f11-9cb0-7fcc3111370c",
+      "data": [
+        {
+          "text": "welcome",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "here",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "eb5f587d-3aa8-4948-8749-f5f6cb4eba24",
+      "data": [
+        {
+          "text": "you're so ",
+          "userDefined": false
+        },
+        {
+          "text": "welcome",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cadfa689-5b28-4b69-ab39-f3f7a6820a79",
+      "data": [
+        {
+          "text": "sure",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "welcome",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "64f3f750-c868-4356-897c-21127159c966",
+      "data": [
+        {
+          "text": "anything you want",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "09dab19b-2a76-4231-8d52-53ddc3691ad1",
+      "data": [
+        {
+          "text": "that's my pleasure",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8fa84015-8539-4126-9748-a35e549973e7",
+      "data": [
+        {
+          "text": "welcome",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d72afcb1-e0c6-4566-8f7a-b7ac24bb2aee",
+      "data": [
+        {
+          "text": "you're ",
+          "userDefined": false
+        },
+        {
+          "text": "welcome",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

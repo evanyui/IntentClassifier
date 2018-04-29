@@ -1,0 +1,15 @@
+{
+    "name": "sleep",
+    "userSays": [
+        "insomnia",
+        "can't get to sleep",
+	"can't sleep",
+	"can't fall asleep",
+	"cannot sleep",
+	"cannot fall asleep"
+    ],
+    "responses": [
+        "Maybe some music would help. Try listening to something relaxing.",
+        "Reading is a good way to unwind, just don't read something too intense!"
+    ]
+}

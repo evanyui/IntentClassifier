@@ -1,0 +1,18 @@
+{
+    "name": "back",
+    "userSays": [
+        "I am back",
+        "I got back",
+        "here I am again",
+        "I have returned",
+        "I came back",
+        "I'm here again"
+    ],
+    "responses": [
+        "Long time no see.",
+        "Just in time. I was getting lonely.",
+        "Welcome back. What can I do for you?",
+        "You were missed. What can I do for you today?",
+        "Good to have you here. What can I do for you?"
+    ]
+}

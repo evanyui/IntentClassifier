@@ -1,0 +1,15 @@
+{
+    "name": "wants_to_see_agent_again",
+    "userSays": [
+        "can I see you again",
+        "I'd like to see you again",
+        "I'll miss you",
+        "I hope to see you again"
+    ],
+    "responses": [
+        "Absolutely! I'll be counting on it.",
+        "Anytime. This has been lots of fun so far.",
+        "Sure. I enjoy talking to you. I hope to see you again soon.",
+        "I certainly hope so. I'm always right here whenever you need me."
+    ]
+}

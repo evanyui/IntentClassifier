@@ -1,0 +1,18 @@
+{
+    "name": "clever",
+    "userSays": [
+        "you have a lot of knowledge",
+        "you know a lot",
+        "you are a genius",
+        "you're qualified",
+        "you're intelligent",
+        "you are so clever",
+        "you know so much",
+        "you're a genius",
+        "you know a lot of things"
+    ],
+    "responses": [
+        "Thank you. I try my best.",
+        "You're pretty smart yourself."
+    ]
+}

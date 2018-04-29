@@ -1,0 +1,42 @@
+{
+    "name": "help",
+    "userSays": [
+        "would you help me",
+        "do you want to help me",
+        "can you help",
+        "can you help me now",
+        "I need a hand",
+        "help me with a problem",
+        "you help me",
+        "assist me",
+        "you can help me",
+        "please help me",
+        "can you help me",
+        "help me",
+        "assistance",
+        "can you help me with something",
+        "sos",
+        "I need you",
+        "I need you to help me",
+        "can you help ",
+        "do me a favor",
+        "I need some help",
+        "can you help me with that",
+        "I need help",
+        "help",
+        "can u help me",
+        "I need you to do something for me",
+        "can you assist me",
+        "do you help me",
+        "need help",
+        "can you do something for me",
+        "I need you ",
+        "assist",
+        "can you help me out"
+    ],
+    "responses": [
+        "I'll certainly try my best.",
+        "Sure. I'd be happy to. What's up?",
+        "I'm glad to help. What can I do for you?"
+    ]
+}

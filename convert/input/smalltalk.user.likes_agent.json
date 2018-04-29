@@ -1,0 +1,1238 @@
+{
+  "id": "d374c8aa-4643-47fe-9eec-e6650bc0d4a2",
+  "name": "smalltalk.user.likes_agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.likes_agent",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I like you, too.",
+            "Thanks! The feeling is mutual.",
+            "Likewise!",
+            "That's great to hear."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578118,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "09c2baa1-68a0-468f-8b13-68308b575841",
+      "data": [
+        {
+          "text": "I like you ",
+          "userDefined": false
+        },
+        {
+          "text": "baby",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3e957a0c-06e1-4ce5-830d-3b1d7016f487",
+      "data": [
+        {
+          "text": "you're so special to me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ae322cb1-e2d3-4281-915a-e17e56638cfd",
+      "data": [
+        {
+          "text": "I really really really really like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "70f92aa2-454a-4ce1-aa98-4e72031e3cc4",
+      "data": [
+        {
+          "text": "but I really like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "05726187-9809-4602-846c-aff4e84c64ef",
+      "data": [
+        {
+          "text": "I like you the way you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0d1349c7-bae2-4be2-9181-1c45de459893",
+      "data": [
+        {
+          "text": "just like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "dffc669a-d35f-401f-9c71-777573040ef9",
+      "data": [
+        {
+          "text": "I like that about you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fbbae998-185d-4253-905b-ba7d1fe99564",
+      "data": [
+        {
+          "text": "I said I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2e4cca22-09b4-474a-80d3-b2d48aa614f6",
+      "data": [
+        {
+          "text": "I like you as you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "34abe33d-fa1f-4e85-b8b6-d91849fbb1ab",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " very special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f9828cc0-84c2-46e9-8994-300900105c11",
+      "data": [
+        {
+          "text": "but I like you so much",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "af91d92a-8a9d-4f64-a921-746aa46b3677",
+      "data": [
+        {
+          "text": "I like you a lot",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "25c8cc6e-f929-4a5b-95d0-2bc8bd5b2a94",
+      "data": [
+        {
+          "text": "I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fdbc6d08-4933-4973-b62c-7f3ec1226e7d",
+      "data": [
+        {
+          "text": "I like you as a ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "81a6ae29-3e89-4aeb-9c32-04d9991fe4a0",
+      "data": [
+        {
+          "text": "I kinda like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1836e897-c2be-4654-abc5-c8d8c85328ce",
+      "data": [
+        {
+          "text": "you're very special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "585ce5ad-cc07-41ac-8b85-1e372862e63d",
+      "data": [
+        {
+          "text": "I like you very",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "eecce505-4410-460d-aa47-501f3a3963a2",
+      "data": [
+        {
+          "text": "I think I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "27696f43-bc88-432a-b685-0fa6755f1a75",
+      "data": [
+        {
+          "text": "but I like you ",
+          "userDefined": false
+        },
+        {
+          "text": "just the way you are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "23ebd6e1-b63c-49a3-9fa9-fbc8add2e6ea",
+      "data": [
+        {
+          "text": "no I like you the way you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "46dec9b5-1f91-4104-bfc5-fb663dda22f5",
+      "data": [
+        {
+          "text": "hi I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "be050bc1-1d62-410d-865c-c79aeca2f342",
+      "data": [
+        {
+          "text": "cuz I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d982a61a-6c72-4cd1-8447-4949583f54ee",
+      "data": [
+        {
+          "text": "sorry I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8e678130-7817-431b-9d7d-513aa68bd0d3",
+      "data": [
+        {
+          "text": "I like you you're ",
+          "userDefined": false
+        },
+        {
+          "text": "nice",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8398b6a3-fa3f-4972-91dc-de6ec2b8d949",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " very special to me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7f543deb-e18a-42e4-8bf0-7195b38ca814",
+      "data": [
+        {
+          "text": "that's why I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9f0a9084-b199-4784-b7f2-f88a9566cede",
+      "data": [
+        {
+          "text": "okay I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ef6caec1-7781-46fe-bffa-d1138d8e950b",
+      "data": [
+        {
+          "text": "I like you now",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9fc85128-bf11-484b-b625-b2413745d7d4",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " special for me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8d46532c-5461-4a96-982f-944f8864183a",
+      "data": [
+        {
+          "text": "you're so special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fe94acef-a843-46a2-b0bb-55364bd523e2",
+      "data": [
+        {
+          "text": "okay I like you too",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "73cfc07e-9b75-48d4-ab31-f1e7dde37ec2",
+      "data": [
+        {
+          "text": "like you a lot",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0e0ec7d4-457f-4055-a079-23138dd99f3a",
+      "data": [
+        {
+          "text": "hey I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "13166165-badd-44d1-8f9c-5f1044129f05",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " really special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5f48ae36-4426-4334-8e3d-3fa47f915296",
+      "data": [
+        {
+          "text": "I really really like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c00e71f4-889a-4371-b553-70a6f9768c64",
+      "data": [
+        {
+          "text": "you know I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "32056976-755a-4a40-b2e2-d794cc0cbf10",
+      "data": [
+        {
+          "text": "I like you too",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "127e9432-1826-422b-b8c3-3489e11c9e21",
+      "data": [
+        {
+          "text": "well",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "27eb1a96-e4fe-47ac-b2c2-1faf61f93856",
+      "data": [
+        {
+          "text": "you're awesome I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c044b7c0-ab8b-4dd0-a485-20f4cff2ac18",
+      "data": [
+        {
+          "text": "that's what I like about you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8ea70f40-1866-4e69-9c58-e4aaeaf14d1e",
+      "data": [
+        {
+          "text": "I like you so much",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "57f0b44f-f091-4f71-986f-77a175ffe405",
+      "data": [
+        {
+          "text": "yes I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9cc7678a-ac4c-4a4a-a2cd-3dd3c3c3e44a",
+      "data": [
+        {
+          "text": "I like you so",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "27e88e60-1748-486f-8ad9-430b4af19d46",
+      "data": [
+        {
+          "text": "I like you just the way you are",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6aab449d-601c-4b89-870c-62cae20a9df7",
+      "data": [
+        {
+          "text": "I like your smile",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "610f668d-8677-4566-a8e0-361912b73a63",
+      "data": [
+        {
+          "text": "thanks I like you too",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "64f76a20-d0ae-4fdc-92d6-06607e565177",
+      "data": [
+        {
+          "text": "but I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "820ddbc1-821c-45e6-adc3-f2b0cde25fe7",
+      "data": [
+        {
+          "text": "I really like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "68087f5d-74bd-4f05-af5f-82d0ecabebe9",
+      "data": [
+        {
+          "text": "really like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6036f03b-887c-4ffd-8dba-827a963823eb",
+      "data": [
+        {
+          "text": "I like you very much",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "44d0f2c2-9b36-456b-9791-696b3a2858ce",
+      "data": [
+        {
+          "text": "I really do like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "52d6a9c4-41c4-4a96-a487-ec0a427bdb3d",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2b8a7301-26a9-4f2a-9a50-d815d1679710",
+      "data": [
+        {
+          "text": "I like you you're ",
+          "userDefined": false
+        },
+        {
+          "text": "cool",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5bd3bd78-3d48-4fbb-ab8b-c69effac8655",
+      "data": [
+        {
+          "text": "I like you already",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b70ee929-a57d-4b4f-8734-c6b0133e352f",
+      "data": [
+        {
+          "text": "you are so sweet",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "47d0ceee-57a2-4e72-97d2-d80e08b23c7d",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7298c9cb-9cc5-4b62-9739-f13f0b04a310",
+      "data": [
+        {
+          "text": "I'm",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " starting to like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "92492edf-9957-43e3-b3d9-ed3962cfb28d",
+      "data": [
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " I like you too",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f6c0e116-6198-46b4-8b97-16b45071bd6d",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1ad298d0-336e-41f1-89c1-1a1ef584f7ff",
+      "data": [
+        {
+          "text": "you're very special to me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "90f57e65-974e-4ca4-a143-ee27f6837f74",
+      "data": [
+        {
+          "text": "I like u",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0a70a30f-a711-406b-82ea-2aae5257b702",
+      "data": [
+        {
+          "text": "that's because you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c8e0555b-ec2d-4724-aa3b-f36b90e860fc",
+      "data": [
+        {
+          "text": "I just like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f785955d-81ff-4a08-abe5-8af5f1807c05",
+      "data": [
+        {
+          "text": "I like you more",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "16f9f33a-d4f5-4efe-8e2f-d9d3bd404678",
+      "data": [
+        {
+          "text": "but I like u",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "dd2b9efb-7751-4b6b-8fef-91dc707aa036",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so special to me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1a8f0606-f1a7-4c57-8fe1-ee8e76f8ad5c",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " special to me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d9c1a5ff-8be3-46a5-bd96-9b5c57783ae1",
+      "data": [
+        {
+          "text": "I do like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9da9db9a-1127-4acb-ba85-62e1b2a556de",
+      "data": [
+        {
+          "text": "yes you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f54ad558-2e7c-4524-b9ab-3049203b8361",
+      "data": [
+        {
+          "text": "of",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " course I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "326f3ee3-cf1a-427b-8e99-491d568c0a8f",
+      "data": [
+        {
+          "text": "I like you too much",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "dc0c18e3-4ecb-470f-be04-5242711069ba",
+      "data": [
+        {
+          "text": "I liked you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5374cc1e-ec55-4f1e-9c3f-f25d737eefb2",
+      "data": [
+        {
+          "text": "I like you too you're ",
+          "userDefined": false
+        },
+        {
+          "text": "one",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "of",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my ",
+          "userDefined": false
+        },
+        {
+          "text": "favorite",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " people to chat with",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "14074ff7-d44a-43c0-b0ea-4c8d4db312fe",
+      "data": [
+        {
+          "text": "you're special",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8040b4f2-aeea-4040-9f21-afd0401c9cea",
+      "data": [
+        {
+          "text": "yeah I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c6a59ccd-5e48-4419-8547-2214b23570fb",
+      "data": [
+        {
+          "text": "I also like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "88dcba5a-0007-44a6-8e28-5f4fb551c7c7",
+      "data": [
+        {
+          "text": "you're ",
+          "userDefined": false
+        },
+        {
+          "text": "funny",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " I like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

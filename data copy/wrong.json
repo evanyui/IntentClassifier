@@ -1,0 +1,20 @@
+{
+    "name": "wrong",
+    "userSays": [
+        "that's wrong",
+        "that was wrong",
+        "you are wrong",
+        "that's not right",
+        "not right",
+        "incorrect",
+        "that is incorrect",
+        "that's not what I asked",
+        "not correct",
+        "wrong"
+    ],
+    "responses": [
+        "Sorry if I understood you incorrectly.",
+        "I'm still learning. I may misinterpret things from time to time.",
+        "Sorry about that. I'm still learning."
+    ]
+}

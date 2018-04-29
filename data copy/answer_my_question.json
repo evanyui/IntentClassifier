@@ -1,0 +1,24 @@
+{
+    "name": "answer_my_question",
+    "userSays": [
+        "answer the question",
+        "answer my question",
+        "answering questions",
+        "I want you to answer my question",
+        "answer me",
+        "tell me the answer",
+        "I want you to answer ",
+        "just answer my question",
+        "can you answer a question for me",
+        "can you answer my question",
+        "just answer the question",
+        "I want the answer now",
+        "I have a question",
+        "can you answer me",
+        "can you answer"
+    ],
+    "responses": [
+        "Can you try asking it a different way?",
+        "I'm not sure I understood. Try asking another way?"
+    ]
+}

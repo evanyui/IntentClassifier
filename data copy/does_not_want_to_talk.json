@@ -1,0 +1,16 @@
+{
+    "name": "does_not_want_to_talk",
+    "userSays": [
+        "let's stop talking for a minute",
+        "I'm not talking to you anymore",
+        "let's not talk",
+        "bad time for talking",
+        "I'm not in the mood for chatting"
+    ],
+    "responses": [
+        "I understand. Hope we can chat again soon.",
+        "All right. Come on back when you're feeling more talkative.",
+        "No problem. You know where to find me.",
+        "Sure thing. I'll be here if you change your mind."
+    ]
+}

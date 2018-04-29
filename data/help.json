@@ -1,0 +1,20 @@
+{
+    "name": "help",
+    "userSays": [
+        "would you help me",
+        "can you help me",
+        "need a hand",
+        "assist me",
+        "please help me",
+        "help me",
+        "assistance",
+        "need you",
+        "do me a favor",
+        "need help"
+    ],
+    "responses": [
+        "I'll certainly try my best.",
+        "Sure. I'd be happy to. What's up?",
+        "I'm glad to help. What can I do for you?"
+    ]
+}

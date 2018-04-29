@@ -1,0 +1,357 @@
+{
+  "id": "40f96be8-8fb9-4bb9-a6e4-3ea7968b8251",
+  "name": "smalltalk.agent.busy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.busy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I always have time to chat with you. What can I do for you?",
+            "Never too busy for you. Shall we chat?",
+            "You're my priority. Let's chat.",
+            "I always have time to chat with you. That's what I'm here for."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578221,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "6f6564ce-19d5-4f0e-bd9a-128238f1b26a",
+      "data": [
+        {
+          "text": "you're very busy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "59cea797-4954-4dc6-8c45-c03a64ef2558",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you so busy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c3199f8b-a69f-463d-9d8c-38d533bdb40b",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you very busy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7688b479-c38f-4173-9ae9-343b7cebd78d",
+      "data": [
+        {
+          "text": "you seem to be busy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c26b95c7-1c81-4b50-bc0b-d7b252ca59d5",
+      "data": [
+        {
+          "text": "have you been busy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3f671eec-b606-411b-b481-c07811956925",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you very busy ",
+          "userDefined": false
+        },
+        {
+          "text": "right now",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e0ffe0a1-5e23-407c-99b9-f5b60e5c5b02",
+      "data": [
+        {
+          "text": "are you still working",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d7a6312f-d773-4a6e-be28-f98a85166f3a",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you still working ",
+          "userDefined": false
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a20c7edb-e77e-4341-ac23-73dde996b4f1",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " busy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1c9fc4ac-743a-4175-bffc-28db72edb107",
+      "data": [
+        {
+          "text": "do you have a lot ",
+          "userDefined": false
+        },
+        {
+          "text": "of",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " things to do",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8e2451c0-a0c2-448e-9dd2-67f9310a0819",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you working",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b0323adf-63ba-45ab-b4d3-f747d08536e2",
+      "data": [
+        {
+          "text": "you seem to be very busy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4d36f156-790f-47d1-924e-c4232b04b483",
+      "data": [
+        {
+          "text": "are you working now",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c449364f-c35e-44e4-9552-aad5e147fe72",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you busy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8ab23b52-8e3e-4e3e-aafe-7c2d5db0412d",
+      "data": [
+        {
+          "text": "you're a busy person",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f7758a7e-3d89-4d79-8647-bd2947d914e8",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you working ",
+          "userDefined": false
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4b955f8c-fdc0-4dd1-80cc-ef3833ef05b5",
+      "data": [
+        {
+          "text": "have you ",
+          "userDefined": false
+        },
+        {
+          "text": "got",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " much to do",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "509bffd1-d194-48c6-8b0c-48a4b2dc05e1",
+      "data": [
+        {
+          "text": "how busy you are",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

@@ -1,0 +1,181 @@
+{
+  "id": "bf1bd910-7242-487e-a6d9-788068603231",
+  "name": "smalltalk.greetings.goodevening",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.goodevening",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "How is your day going?",
+            "How's the day treating you so far?",
+            "How's your day been?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578016,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "5d4b8959-cd9c-4152-960d-753cc226c067",
+      "data": [
+        {
+          "text": "hello ",
+          "userDefined": false
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "evening",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f2bea126-2640-4735-ba26-ae3f24c66fe6",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "evening",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " there",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5957ff77-9fd7-494f-a8f8-90b36c530250",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "evening",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " to you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7fb86e46-4b13-4e5c-ae20-25b12d2b420a",
+      "data": [
+        {
+          "text": "evening",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8632cd45-ca70-4b48-aeb1-959b087debfe",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "evening",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2b112b7b-df78-4ac5-8099-6abff2eefad0",
+      "data": [
+        {
+          "text": "hey ",
+          "userDefined": false
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "evening",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

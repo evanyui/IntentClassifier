@@ -1,0 +1,15 @@
+{
+    "name": "goodmorning",
+    "userSays": [
+        "morning",
+        "morning",
+        "morning",
+        "morning",
+        "morning"
+    ],
+    "responses": [
+        "How are you this morning?",
+        "How's the morning treating you so far?",
+        "Good morning! How are you today?"
+    ]
+}

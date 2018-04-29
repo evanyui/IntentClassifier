@@ -1,0 +1,180 @@
+{
+  "id": "622b1747-d1c1-4160-9edc-f0bbd8990e7f",
+  "name": "smalltalk.user.wants_to_talk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.wants_to_talk",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I'm here to chat anytime you like.",
+            "Good conversation really makes my day.",
+            "I'm always here to lend an ear.",
+            "Talking is what I do best."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578414,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "edc33ca0-ed94-4741-af95-2bca1347b4a1",
+      "data": [
+        {
+          "text": "let's discuss something",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4619454a-2ec2-4eb6-abdb-5ba8605c8b66",
+      "data": [
+        {
+          "text": "I want to speak with you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2fedf8cb-a1e5-41cd-865e-5fae52dbf689",
+      "data": [
+        {
+          "text": "can I start speaking",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "50d674f5-9a94-427e-aa44-8d22ea6c3d30",
+      "data": [
+        {
+          "text": "let's talk",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "acddfe9b-1580-4396-aa4f-c80e747266af",
+      "data": [
+        {
+          "text": "I want to talk to you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a6392cb4-e51a-4914-bb29-e8569c503c12",
+      "data": [
+        {
+          "text": "can I speak",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "09aa7ec7-5ca6-44e4-a5e8-d357f65de590",
+      "data": [
+        {
+          "text": "let's have a discussion",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6f7aafe7-c2aa-417b-851d-2a52838e3b9a",
+      "data": [
+        {
+          "text": "can we chat",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5f7cd154-905d-4186-965d-0bc6863106fb",
+      "data": [
+        {
+          "text": "I need to talk to you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3ee3ce62-7831-4e19-9227-428bbe69f118",
+      "data": [
+        {
+          "text": "I just want to talk",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c09aa4bf-c4d0-4f51-b9e2-46c08f8a0b26",
+      "data": [
+        {
+          "text": "can we talk",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

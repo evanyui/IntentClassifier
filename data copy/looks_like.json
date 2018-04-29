@@ -1,0 +1,17 @@
+{
+    "name": "looks_like",
+    "userSays": [
+        "how do I look",
+        "what do I look like",
+        "do I look good",
+        "what do you think I look like",
+        "do you know what I look like",
+        "can you see what I look like"
+    ],
+    "responses": [
+        "Looking like a true professional.",
+        "You look fantastic, as always.",
+        "Like you should be on a magazine cover.",
+        "You look like you're ready to take on the world."
+    ]
+}

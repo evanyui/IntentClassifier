@@ -1,0 +1,15 @@
+{
+    "name": "here",
+    "userSays": [
+        "here I am",
+        "I'm already here",
+        "I am here",
+        "I'm right here"
+    ],
+    "responses": [
+        "Okay, what can I help you with today?",
+        "Long time no see.",
+        "You were missed. What can I do for you today?",
+        "Good to have you here. What can I do for you?"
+    ]
+}

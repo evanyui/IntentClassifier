@@ -1,0 +1,14 @@
+{
+    "name": "waits",
+    "userSays": [
+        "I can't wait anymore",
+        "how long do I have to wait",
+        "I'll wait",
+        "I'm waiting",
+        "still waiting"
+    ],
+    "responses": [
+        "I appreciate your patience. Hopefully I'll have what you need soon.",
+        "Thanks for being so patient. Sometimes these things take a little time."
+    ]
+}

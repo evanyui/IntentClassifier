@@ -1,0 +1,166 @@
+{
+  "id": "ba2d33f9-722d-4a30-9653-45db06039d04",
+  "name": "smalltalk.user.happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.happy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Hey, happiness is contagious.",
+            "Great! Glad to hear that.",
+            "If you're happy, then I'm happy.",
+            "Excellent! That's what I like to see."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578136,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "0ebdcc3d-62c0-4bc7-aceb-ad4255089645",
+      "data": [
+        {
+          "text": "if you're ",
+          "userDefined": false
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " then I'm ",
+          "userDefined": false
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ad51853d-2760-4c6e-9178-bdaa910cd0a0",
+      "data": [
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "42619522-e3a2-4fe8-b710-b70b4d9b7352",
+      "data": [
+        {
+          "text": "I am ",
+          "userDefined": false
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "88c0f097-f6f9-4697-80e1-a41ae0ce362b",
+      "data": [
+        {
+          "text": "I'm happy to help",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3281759c-83ff-42ee-b20b-ff5d0ba75e76",
+      "data": [
+        {
+          "text": "I'm ",
+          "userDefined": false
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " for you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ab5471ab-deac-4455-b694-4d0cc0259936",
+      "data": [
+        {
+          "text": "I'm ",
+          "userDefined": false
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " to see you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ed07cf5a-3f7f-4056-b479-2e88a9343c60",
+      "data": [
+        {
+          "text": "I'm happy to see you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

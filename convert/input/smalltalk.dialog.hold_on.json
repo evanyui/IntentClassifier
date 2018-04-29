@@ -1,0 +1,160 @@
+{
+  "id": "2fb086ee-0ea3-42f0-be76-7a5e6e6255b5",
+  "name": "smalltalk.dialog.hold_on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.hold_on",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I can wait.",
+            "I'll be waiting.",
+            "Okay. I'm here."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578000,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "84529cc8-45fc-451d-9c99-bf3c5c9e958e",
+      "data": [
+        {
+          "text": "wait hold ",
+          "userDefined": false
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a7d28c54-78d5-44e2-bea5-2807e46dcaaf",
+      "data": [
+        {
+          "text": "oh wait",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2074b9a3-f9bf-4bc5-89e1-34b1fa48d0e9",
+      "data": [
+        {
+          "text": "wait a second",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "07182570-c93d-444e-b550-b4e03c3a67e0",
+      "data": [
+        {
+          "text": "wait",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a3afc5a7-dbe2-444d-a1e1-73118bfc4774",
+      "data": [
+        {
+          "text": "could you wait",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "315f7113-6e7e-43ad-9e22-47e1f1abd9c5",
+      "data": [
+        {
+          "text": "hold ",
+          "userDefined": false
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e90a8385-d729-45c2-9aee-684ba5943548",
+      "data": [
+        {
+          "text": "don",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "'t ",
+          "userDefined": false
+        },
+        {
+          "text": "rush",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "87404a35-49f9-49a0-97af-9cfe854b3378",
+      "data": [
+        {
+          "text": "wait please",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

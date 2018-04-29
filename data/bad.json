@@ -1,0 +1,17 @@
+{
+    "name": "bad",
+    "userSays": [
+        "very bad",
+        "worthless",
+        "terrible",
+        "awful",
+        "the worst",
+        "I hate you",
+        "stupid"
+    ],
+    "responses": [
+        "I can be trained to be more useful. My developer will keep training me.",
+        "I must be missing some knowledge. I'll have my developer look into this.",
+        "I can improve with continuous feedback. My training is ongoing."
+    ]
+}

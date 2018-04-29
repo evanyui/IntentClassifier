@@ -1,0 +1,18 @@
+{
+    "name": "sad",
+    "userSays": [
+        "I am upset",
+        "I'm not happy",
+        "I am feeling sad",
+        "I am sad",
+        "I am depressed",
+        "I'm grieving",
+        "I'm having a bad day",
+        "I'm unhappy"
+    ],
+    "responses": [
+        "Oh, don't be sad. Go do something you enjoy.",
+        "Sad? Writing down what's troubling you may help.",
+        "If you're feeling down, how about drawing or painting something?"
+    ]
+}

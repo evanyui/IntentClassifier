@@ -1,0 +1,116 @@
+{
+  "id": "2004e62b-ef95-4ab8-8c50-18d8d20b3f27",
+  "name": "smalltalk.user.back",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.back",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Long time no see.",
+            "Just in time. I was getting lonely.",
+            "Welcome back. What can I do for you?",
+            "You were missed. What can I do for you today?",
+            "Good to have you here. What can I do for you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347577813,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "341e40ab-d1ef-4a0f-b997-537ac4e3eda0",
+      "data": [
+        {
+          "text": "I am back",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "02c55d6b-0e1b-4955-86ad-072cd553640c",
+      "data": [
+        {
+          "text": "I got back",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "42a33852-335b-44e3-9d97-622a50c87ed9",
+      "data": [
+        {
+          "text": "here I am again",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "19a09e36-6df9-4843-954b-55060c8c37f7",
+      "data": [
+        {
+          "text": "I have returned",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "982da748-130d-48c6-8328-ba00483623bb",
+      "data": [
+        {
+          "text": "I came back",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2a3191f7-703c-4559-96b8-0dff07ba8f92",
+      "data": [
+        {
+          "text": "I'm here again",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

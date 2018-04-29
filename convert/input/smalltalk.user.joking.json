@@ -1,0 +1,167 @@
+{
+  "id": "4d4691fd-14eb-47d7-a2fe-c642c1cd8a90",
+  "name": "smalltalk.user.joking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.joking",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Very funny.",
+            "I like chatting with people who have a sense of humor.",
+            "You got me!",
+            "You're quite the comedian."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347577534,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "d7d3ac41-7e8a-4cb9-bd8a-2360c497ce8d",
+      "data": [
+        {
+          "text": "I'm kidding",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "af0d875f-a487-4527-ba54-df1a8d197246",
+      "data": [
+        {
+          "text": "I was just joking",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f92b0959-d1d9-4ed9-a8cc-1b7851811653",
+      "data": [
+        {
+          "text": "I am joking",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f7330071-0675-43b2-b477-6765496cf8ec",
+      "data": [
+        {
+          "text": "joking",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "18a9d1c5-28b2-4c55-aac9-356b7a77ab43",
+      "data": [
+        {
+          "text": "just kidding",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fcbe7511-9656-499d-a5f3-c7117e868b94",
+      "data": [
+        {
+          "text": "it's a joke",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "bcd2cf8b-184b-4ece-aacf-6e896900f380",
+      "data": [
+        {
+          "text": "it was a joke",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "506ad2ba-f844-49c8-8e0b-7c1473f9688c",
+      "data": [
+        {
+          "text": "kidding",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1969ce38-15aa-4202-af00-5250f0feb3a2",
+      "data": [
+        {
+          "text": "I'm just being funny",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f65b603b-2557-4a66-868a-82e755efb5ad",
+      "data": [
+        {
+          "text": "I'm just playing with you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

@@ -1,0 +1,12 @@
+{
+    "name": "goodevening",
+    "userSays": [
+        "evening",
+        "good evening"
+    ],
+    "responses": [
+        "How is your day going?",
+        "How's the day treating you so far?",
+        "How's your day been?"
+    ]
+}

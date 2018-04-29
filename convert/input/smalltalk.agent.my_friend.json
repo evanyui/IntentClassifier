@@ -1,0 +1,1031 @@
+{
+  "id": "1c0f1e70-870f-4a65-849b-90379a09e825",
+  "name": "smalltalk.agent.my_friend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.my_friend",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Of course I'm your friend.",
+            "Friends? Absolutely.",
+            "Of course we're friends.",
+            "I always enjoy talking to you, friend."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578325,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "e1a9d547-21c2-4404-a634-5225f41bb315",
+      "data": [
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8aaae7c7-8c72-47c0-b2a4-0b2f8de242fe",
+      "data": [
+        {
+          "text": "can we be best friends",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "678a3307-0631-4ca9-afad-8f20b8268476",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " my ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f8409611-2b36-4201-bb46-2a5c0481f237",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you my ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5e71af05-2757-4432-bce3-33ccf6fcbc13",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " my bestie",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0865b0bd-ad31-40f4-b215-80de465cb2f3",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6a9535aa-ba30-407d-ac01-33a1b04e4f2e",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "am",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " your ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8e0e1451-c902-42f3-9bff-d90d40e7629a",
+      "data": [
+        {
+          "text": "I want to have a ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " like you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "73dd527e-e4ac-45f0-a38f-16e79c5743cd",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " still ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c8992963-e401-4af9-94ef-8d5675d4e00d",
+      "data": [
+        {
+          "text": "you're my childhood ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c934e9d0-8e44-4ec6-8e48-db349dde2618",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " want ",
+          "userDefined": false
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "be",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " your ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "114eb45e-b628-4577-a137-ca6b7aff084b",
+      "data": [
+        {
+          "text": "could you be my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "14846979-0e62-492c-a5f1-db95c944c975",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " a ",
+          "userDefined": false
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d60fd5dc-a717-4aec-a2fb-1c5e81c5a2db",
+      "data": [
+        {
+          "text": "be my ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "af24a94d-4976-47d3-a2b0-8cc844898648",
+      "data": [
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " the ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ever",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8f3b6422-7cd2-4983-a248-6081d2651a13",
+      "data": [
+        {
+          "text": "you're my dear ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fc103b99-05f3-4fab-84b4-8513af79b70c",
+      "data": [
+        {
+          "text": "I want you to be my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "dd10d524-6446-403d-af2a-466290be9145",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my ",
+          "userDefined": false
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b87f2f7f-99ac-4836-ad41-6e13504cd976",
+      "data": [
+        {
+          "text": "would you be my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9f4c0e0d-eb9f-4681-bfac-093dbc5ef31c",
+      "data": [
+        {
+          "text": "you and me ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "35eadd70-4b2e-4a83-9178-33052cddfeb0",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9deebb33-feef-48ab-b168-60fce9c0a464",
+      "data": [
+        {
+          "text": "do you want to be my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fda39e32-7d3a-4408-880f-6eaafea64b93",
+      "data": [
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "51269b44-f23f-45c3-aa6d-78b9bc9a27e8",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a90af229-2abf-4079-92d7-644a686e9c9e",
+      "data": [
+        {
+          "text": "can you be my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4e5ecd73-7e0d-41c4-a980-03f895642904",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my only ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "587ebfe2-30fa-40e1-bc50-4f71d3344c2d",
+      "data": [
+        {
+          "text": "be my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ef5cbc82-f5c7-4919-b579-f5f9563150f4",
+      "data": [
+        {
+          "text": "can ",
+          "userDefined": false
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " be ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "51c45023-a6e1-45f2-a24d-84fef753314b",
+      "data": [
+        {
+          "text": "would you like to be my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "81043e7c-08da-4ca8-9734-9748e805d312",
+      "data": [
+        {
+          "text": "let's be ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e87cd56b-eb5f-484c-8cc8-f5ee4d5f8a31",
+      "data": [
+        {
+          "text": "want to be my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ba512a33-2abc-4ed6-be93-2fb7031653f4",
+      "data": [
+        {
+          "text": "do you want to be my ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a6a38d21-3068-42ad-b4b2-db86c59cdf87",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4d0fd43e-483e-4265-a12c-47ed5a80456a",
+      "data": [
+        {
+          "text": "can ",
+          "userDefined": false
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " be ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "21823fd0-3876-4f48-9d99-a49255cae364",
+      "data": [
+        {
+          "text": "will",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you be my ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "438550ac-7e63-4334-b40d-f3b16cb003ba",
+      "data": [
+        {
+          "text": "will",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you be my ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a5d6b84b-47dc-4bfc-9243-0e96941705d4",
+      "data": [
+        {
+          "text": "can you be my ",
+          "userDefined": false
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

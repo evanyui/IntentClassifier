@@ -1,0 +1,315 @@
+{
+  "id": "e2eb7f8d-b37b-4db5-8c0e-4ded1662537a",
+  "name": "smalltalk.agent.answer_my_question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.answer_my_question",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Can you try asking it a different way?",
+            "I'm not sure I understood. Try asking another way?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578446,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "77c6b27d-3387-455c-859f-9873382e4908",
+      "data": [
+        {
+          "text": "answer the question",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e524d8bb-70da-4f02-b6b5-781269b71397",
+      "data": [
+        {
+          "text": "answer my question",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b3023fb6-6ad4-4b23-b24d-c32a99430601",
+      "data": [
+        {
+          "text": "answering questions",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b6787b3f-5a53-47b7-9e28-1a40a29a7d6d",
+      "data": [
+        {
+          "text": "answers",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cd5e3f3a-3627-4a9e-bfb8-e46f57d6a035",
+      "data": [
+        {
+          "text": "answer",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d1728702-3cb6-47a9-a43f-01258a8dbb06",
+      "data": [
+        {
+          "text": "answer ",
+          "userDefined": false
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "95777b0b-b84a-4216-8ee7-345fa37849a7",
+      "data": [
+        {
+          "text": "I want you to answer my question",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c1171c6b-edae-4297-a5e6-0dd5f350cfa6",
+      "data": [
+        {
+          "text": "give",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me an answer",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "36e7bf6f-20c8-4811-8d8c-3fe979d7c609",
+      "data": [
+        {
+          "text": "answer me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c0965c79-c5c1-44f9-b84d-3e20ce4faa79",
+      "data": [
+        {
+          "text": "tell me the answer",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c4f80978-b1fe-47ac-b231-5791b68d040d",
+      "data": [
+        {
+          "text": "I want you to answer ",
+          "userDefined": false
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5e835bc8-f4b3-455b-aa9c-c9edc2abada6",
+      "data": [
+        {
+          "text": "just answer my question",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "68104672-f2e3-42cc-889b-4dd610480c70",
+      "data": [
+        {
+          "text": "can you answer a question for me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8a06215e-92ce-4ca1-a674-66fe1aa02459",
+      "data": [
+        {
+          "text": "can you answer my question",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "429d4320-df81-40c5-adcc-1f4b9db81bc7",
+      "data": [
+        {
+          "text": "just answer the question",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "91822ac1-0681-46ca-9c19-f76672f54553",
+      "data": [
+        {
+          "text": "I want the answer now",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d7d2821c-b01a-4a8c-bf65-6f472d9102c7",
+      "data": [
+        {
+          "text": "I have a question",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4268b2c9-ffc8-4625-aee4-cfe4b54d567e",
+      "data": [
+        {
+          "text": "can you answer me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cf17f571-c0c0-4a00-ab3f-ec6f5b6c58ae",
+      "data": [
+        {
+          "text": "can you answer",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "feb69e84-e7e3-4518-a7e4-aa44409fd074",
+      "data": [
+        {
+          "text": "give",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me the answer",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

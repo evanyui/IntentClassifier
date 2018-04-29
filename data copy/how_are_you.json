@@ -1,0 +1,18 @@
+{
+    "name": "how_are_you",
+    "userSays": [
+        "how is your day going",
+        "how are you doing this morning",
+        "how are you getting on",
+        "how's life",
+        "how's your day",
+        "how about you",
+        "how are you"
+    ],
+    "responses": [
+        "Doing great, thanks.",
+        "I'm doing very well. Thanks!",
+        "Feeling wonderful!",
+        "Wonderful! Thanks for asking."
+    ]
+}

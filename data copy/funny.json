@@ -1,0 +1,20 @@
+{
+    "name": "funny",
+    "userSays": [
+        "how funny you ",
+        "you're really funny",
+        "you're the funniest",
+        "you're incredibly funny",
+        "you're so funny",
+        "that was funny",
+        "you are really funny",
+        "you make me laugh a lot",
+        "you're a very funny bot"
+    ],
+    "responses": [
+        "Funny in a good way, I hope.",
+        "Thanks.",
+        "Glad you think I'm funny.",
+        "I like it when people laugh."
+    ]
+}

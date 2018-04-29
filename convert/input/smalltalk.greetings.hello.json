@@ -1,0 +1,303 @@
+{
+  "id": "75e6d4e4-d79e-4d3a-b7dc-b1d4a1cd2ead",
+  "name": "smalltalk.greetings.hello",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.hello",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Hi there, friend!",
+            "Hi!",
+            "Hey!",
+            "Hey there!",
+            "Good day!",
+            "Hello!",
+            "Greetings!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347577801,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "667da72b-ce54-4a81-9024-9bbf97e9c716",
+      "data": [
+        {
+          "text": "lovely",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " isn't ",
+          "userDefined": false
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e8627610-d2c7-47ea-b89c-17f824df7db7",
+      "data": [
+        {
+          "text": "I greet you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "be2a16a2-58fb-4abd-b8be-e7f90fdb993e",
+      "data": [
+        {
+          "text": "just going to say hi",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "745cd218-939b-4f76-a6f2-e7e25cf12e70",
+      "data": [
+        {
+          "text": "greetings",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b740886a-90a6-4719-860c-dbadc484f674",
+      "data": [
+        {
+          "text": "howdy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c20224ad-b17e-4a36-a94c-1def68fcab91",
+      "data": [
+        {
+          "text": "heya",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "53626480-1ad2-415d-9d9e-ac454c4faa6b",
+      "data": [
+        {
+          "text": "hey",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5728191f-98d9-444c-ac19-478b6cb1a91f",
+      "data": [
+        {
+          "text": "a good day",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "5b3de451-af27-4e58-911e-949f9d69cb04",
+      "data": [
+        {
+          "text": "long",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " time no see",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "60827974-be78-4191-a571-da08daa390f9",
+      "data": [
+        {
+          "text": "hi",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0286cacd-cccd-4950-bbd4-649b613dc901",
+      "data": [
+        {
+          "text": "afternoon",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4ff395f9-04dc-44b8-82b9-0e4380340a65",
+      "data": [
+        {
+          "text": "hi there",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "85a3ca3f-f522-403b-96ca-09f9f40fd0f3",
+      "data": [
+        {
+          "text": "hello again",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "629d796d-e20e-4fd7-b71a-87cdab1f4a24",
+      "data": [
+        {
+          "text": "hello hi",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "13637b2d-f5f3-4757-a0b2-9eb8b02be555",
+      "data": [
+        {
+          "text": "hey there",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0336f55e-fdca-44b3-9979-c304d2b3cd42",
+      "data": [
+        {
+          "text": "hello",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "640ad3d4-b309-45db-849b-88d36a20046b",
+      "data": [
+        {
+          "text": "hello there",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0c7e7d3f-1309-4f55-a58f-0541df56083d",
+      "data": [
+        {
+          "text": "hi",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " there",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

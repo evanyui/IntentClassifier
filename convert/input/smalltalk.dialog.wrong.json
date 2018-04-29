@@ -1,0 +1,202 @@
+{
+  "id": "a5bd1168-b547-43de-886c-dea97ee9e958",
+  "name": "smalltalk.dialog.wrong",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.wrong",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Sorry if I understood you incorrectly.",
+            "I'm still learning. I may misinterpret things from time to time.",
+            "Sorry about that. I'm still learning."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347577489,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "b09d3dcd-fc40-4163-b383-aa1468473ba6",
+      "data": [
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " is not right",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d2da2342-1a04-4eac-bf69-18d5584f18c0",
+      "data": [
+        {
+          "text": "that's wrong",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1ae35f04-a53a-4905-85a6-feffef2111cb",
+      "data": [
+        {
+          "text": "that was wrong",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "511143cf-d88c-45f7-8215-222ea8fd2810",
+      "data": [
+        {
+          "text": "you are wrong",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6936e179-fa2c-4123-a4f7-f5649f728507",
+      "data": [
+        {
+          "text": "that's not right",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "427f3260-b495-40f0-a4ab-38094fb2ae1a",
+      "data": [
+        {
+          "text": "not right",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "64685679-0313-40d4-b089-f4f46c25b896",
+      "data": [
+        {
+          "text": "incorrect",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4c3b7eda-7d38-48ce-bbed-22641835352e",
+      "data": [
+        {
+          "text": "that is incorrect",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "402648ec-d049-4165-ba5b-cc20b8bd459c",
+      "data": [
+        {
+          "text": "that's not what I asked",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "72803d5c-7e6e-4639-9321-bf4bab268914",
+      "data": [
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "'s wrong",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0ee2dabb-e1a5-4eba-b073-5099b47d363a",
+      "data": [
+        {
+          "text": "not correct",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "119d9623-dec7-4dfe-8f4e-c9cd265b559a",
+      "data": [
+        {
+          "text": "wrong",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

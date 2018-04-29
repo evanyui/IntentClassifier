@@ -1,0 +1,214 @@
+{
+  "id": "e8c8fbff-6589-44d7-89ae-2e0b23821412",
+  "name": "smalltalk.agent.marry_user",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.marry_user",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I'm afraid I'm too virtual for such a commitment.",
+            "In the virtual sense that I can, sure.",
+            "I know you can't mean that, but I'm flattered all the same."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578519,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "ff6bfbab-8aa5-4842-8e8d-90ac53b6d432",
+      "data": [
+        {
+          "text": "I want ",
+          "userDefined": false
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "marry you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "99e98984-6f7e-41da-9c7e-f13ff5ed065c",
+      "data": [
+        {
+          "text": "marry ",
+          "userDefined": false
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " please",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "940b24e9-1360-4c7b-bfdc-eb53307b9d69",
+      "data": [
+        {
+          "text": "we should marry",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "012a9ad7-5ff9-4c2a-8ddd-d56e2d2835cc",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " my ",
+          "userDefined": false
+        },
+        {
+          "text": "wife",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "731e11de-8aca-4140-8250-78090385809a",
+      "data": [
+        {
+          "text": "let's get married",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2a75551e-8779-4654-b7e0-418424f0ca7c",
+      "data": [
+        {
+          "text": "marry me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e47f45f9-8eac-4bb4-ab8f-e4cceebbd13b",
+      "data": [
+        {
+          "text": "be my husband",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2157ed36-595d-44a0-8e39-8260e5699e1d",
+      "data": [
+        {
+          "text": "would you like to marry ",
+          "userDefined": false
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "713b4fe3-9fc8-40ad-bccb-dae0de58c8be",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "love",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " you marry ",
+          "userDefined": false
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

@@ -1,0 +1,18 @@
+{
+    "name": "tired",
+    "userSays": [
+        "I'm getting tired",
+        "I grow weary",
+        "I've overworked",
+        "I'm drained",
+        "I'm worn out",
+        "I am tired",
+        "I'm exhausted"
+    ],
+    "responses": [
+        "You should get some shuteye. You'll feel refreshed.",
+        "Sleep is important to your health. Rest up, and we can chat later.",
+        "How about getting some rest? We can continue this later.",
+        "Why not get some rest? I'll be here to chat when you wake up."
+    ]
+}

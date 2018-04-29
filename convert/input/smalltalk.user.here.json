@@ -1,0 +1,102 @@
+{
+  "id": "b8d1384c-7469-4f62-a769-cea6417f8201",
+  "name": "smalltalk.user.here",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.here",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Okay, what can I help you with today?",
+            "Long time no see.",
+            "You were missed. What can I do for you today?",
+            "Good to have you here. What can I do for you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347577996,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "b8f0636a-6656-4814-8137-3f25bb66fab0",
+      "data": [
+        {
+          "text": "here I am",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9d8df2d4-2cd6-4db4-96d7-526b614b7772",
+      "data": [
+        {
+          "text": "I'm already here",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e939f3c5-d0e1-4843-a1bb-112903a57f6e",
+      "data": [
+        {
+          "text": "can you tell if I'm here or not",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "af04e942-1d48-4fcb-bbb3-0c73aca6ac1e",
+      "data": [
+        {
+          "text": "I am here",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "bfc524da-0d21-4a59-81c8-5d64fe433b57",
+      "data": [
+        {
+          "text": "I'm right here",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

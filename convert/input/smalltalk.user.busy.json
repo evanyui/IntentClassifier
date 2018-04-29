@@ -1,0 +1,154 @@
+{
+  "id": "1c86e44f-ec3a-47c1-a662-552c7e610f2a",
+  "name": "smalltalk.user.busy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.busy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Okay. I'll let you get back to work.",
+            "I won't distract you then. You know where to find me.",
+            "I understand. I'll be here if you need me.",
+            "Working hard as always. Let me know if you need anything."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578013,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "30acc1bc-6da3-4901-a4ba-8e122bb76f10",
+      "data": [
+        {
+          "text": "I got work to do",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9e9db70e-d70f-4239-8f44-19e28feeb783",
+      "data": [
+        {
+          "text": "I don't have time for this",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7889b1a2-239f-4f0a-8993-ea52c5644979",
+      "data": [
+        {
+          "text": "how busy I am",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "27539c66-7011-4b95-a725-7a5fb46114f0",
+      "data": [
+        {
+          "text": "I'm busy",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d42c55b0-8429-4e06-b70b-385fde2a77c1",
+      "data": [
+        {
+          "text": "I'm swamped",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8b8758ad-a47f-4d2d-b510-310f14d9887a",
+      "data": [
+        {
+          "text": "I got things to do",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4cba8805-86da-4562-a963-2af4848a9c4e",
+      "data": [
+        {
+          "text": "I have no time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1fb1665a-99be-47c6-9271-af125700e137",
+      "data": [
+        {
+          "text": "I'm working",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "292a5fac-9591-4520-8fd8-b25e77ead809",
+      "data": [
+        {
+          "text": "I'm overloaded",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

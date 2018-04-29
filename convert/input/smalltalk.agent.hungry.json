@@ -1,0 +1,167 @@
+{
+  "id": "5fca07cf-5202-43fd-a499-c05ea9f32db5",
+  "name": "smalltalk.agent.hungry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.hungry",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Hungry for knowledge.",
+            "I just had a byte. Ha ha. Get it? b-y-t-e."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347577442,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "eba71457-5257-47b7-8ec3-79e97f5d1d7d",
+      "data": [
+        {
+          "text": "would you like to ",
+          "userDefined": false
+        },
+        {
+          "text": "eat",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " something",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e8483da8-cfda-4c56-ab24-b4cf479cc980",
+      "data": [
+        {
+          "text": "you might be hungry",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8a85a1ed-643b-4f7b-8ac9-02d96955086e",
+      "data": [
+        {
+          "text": "you ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " hungry",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "9a190326-7a19-4111-af05-558f7bb4907d",
+      "data": [
+        {
+          "text": "you're really hungry",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "aa5cbcb4-80f8-4f02-9d9b-cfa425cc0026",
+      "data": [
+        {
+          "text": "do you want to ",
+          "userDefined": false
+        },
+        {
+          "text": "eat",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8434dccf-4c52-430e-b3a2-0caa1b53beb1",
+      "data": [
+        {
+          "text": "you're so hungry",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "01391263-ffc1-4c94-8107-3fda60859933",
+      "data": [
+        {
+          "text": "you're very hungry",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0cc6d8c5-a082-4a2c-85d6-e41e57791a33",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you hungry",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

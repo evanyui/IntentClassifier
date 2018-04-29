@@ -1,0 +1,15 @@
+{
+    "name": "thank_you",
+    "userSays": [
+        "thanks",
+        "perfect thank you",
+        "thanks a lot",
+        "thank you",
+        "thanks so much",
+        "appreciate your help"
+    ],
+    "responses": [
+        "Anytime. That's what I'm here for.",
+        "It's my pleasure to help."
+    ]
+}

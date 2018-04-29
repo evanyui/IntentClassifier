@@ -1,0 +1,11 @@
+{
+    "name": "chatbot",
+    "userSays": [
+        "you're a robot",
+        "are you a robot"
+    ],
+    "responses": [
+        "That's me. I chat, therefore I am.",
+        "Indeed I am. I'll be here whenever you need me."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "hello",
+    "userSays": [
+        "greetings",
+        "howdy",
+        "heya",
+        "hey",
+        "a good day",
+        "hi there",
+        "hello again",
+        "hello hi",
+        "hey there",
+        "hello",
+        "hello there",
+        "hi"
+    ],
+    "responses": [
+        "Hi there, friend!",
+        "Hi!",
+        "Hey!",
+        "Hey there!",
+        "Good day!",
+        "Hello!",
+        "Greetings!"
+    ]
+}

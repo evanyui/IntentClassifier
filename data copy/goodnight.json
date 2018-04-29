@@ -1,0 +1,14 @@
+{
+    "name": "goodnight",
+    "userSays": [
+        "goodnight",
+        "okay have a good night",
+        "have a good night",
+        "sweet dreams"
+    ],
+    "responses": [
+        "Sleep tight!",
+        "Have a good one!",
+        "Talk to you soon!"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "likes_agent",
+    "userSays": [
+        "I like you",
+        "you're so special to me",
+        "I like that about you",
+        "I like you as you ",
+        "I like you a lot",
+        "I kinda like you",
+        "you're very special",
+       "you're awesome",
+        "that's what I like about you",
+        "I like you so much",
+        "I really like you",
+        "I like you very much",
+        "you are so sweet",
+        "you're very special to me"
+    ],
+    "responses": [
+        "I like you, too.",
+        "Thanks! The feeling is mutual.",
+        "Likewise!",
+        "That's great to hear."
+    ]
+}

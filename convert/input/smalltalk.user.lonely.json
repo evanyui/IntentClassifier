@@ -1,0 +1,152 @@
+{
+  "id": "a902efc3-a3c4-431e-9d54-717ee34500cc",
+  "name": "smalltalk.user.lonely",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.lonely",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I'm sorry. I'm always available if you need someone to talk to.",
+            "Sometimes that happens. We can chat a bit if that will help you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347578460,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "db73fdf6-27b3-4668-a23b-9567eb733823",
+      "data": [
+        {
+          "text": "I am ",
+          "userDefined": false
+        },
+        {
+          "text": "lonely",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "381746c7-cb3c-4c24-9c5e-62d40a95359d",
+      "data": [
+        {
+          "text": "I ",
+          "userDefined": false
+        },
+        {
+          "text": "feel",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "lonely",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c2090864-92d6-4da6-bf84-299e00db583a",
+      "data": [
+        {
+          "text": "I'm really ",
+          "userDefined": false
+        },
+        {
+          "text": "lonely",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7138c901-1534-41b8-8e4a-cd3d5e84d455",
+      "data": [
+        {
+          "text": "I am feeling ",
+          "userDefined": false
+        },
+        {
+          "text": "lonely",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "47d200ac-9552-4887-b084-0318aa08f5b4",
+      "data": [
+        {
+          "text": "I'm very ",
+          "userDefined": false
+        },
+        {
+          "text": "lonely",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b43e529f-066d-4f12-9b47-9f1727e55a7b",
+      "data": [
+        {
+          "text": "I'm so ",
+          "userDefined": false
+        },
+        {
+          "text": "lonely",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

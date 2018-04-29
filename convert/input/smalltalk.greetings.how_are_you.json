@@ -1,0 +1,979 @@
+{
+  "id": "47b74765-a721-4414-ae6a-1f5997a45391",
+  "name": "smalltalk.greetings.how_are_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.how_are_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Doing great, thanks.",
+            "I'm doing very well. Thanks!",
+            "Feeling wonderful!",
+            "Wonderful! Thanks for asking."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508347577993,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "f3beb050-78b6-4e4f-93c7-349c7fa22d8a",
+      "data": [
+        {
+          "text": "how ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you going",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b2e4e30d-6a97-455c-9921-18e8674b7184",
+      "data": [
+        {
+          "text": "hope",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you re having a pleasant ",
+          "userDefined": false
+        },
+        {
+          "text": "evening",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "f3ee2c21-2c3f-4979-92b9-b4b6d999e9b9",
+      "data": [
+        {
+          "text": "what about ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4a7f87c1-4b97-4e57-9051-70f642b9018f",
+      "data": [
+        {
+          "text": "how is your day going",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "d5e0f83e-8eef-4172-97a4-954c8f7cda9f",
+      "data": [
+        {
+          "text": "how are you doing this morning",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1efac0ea-596d-48b6-9b6b-65b3bf7e704b",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "evening",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "19111f19-cf71-44bb-9029-7a0f9362dbfe",
+      "data": [
+        {
+          "text": "how do ",
+          "userDefined": false
+        },
+        {
+          "text": "you",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " do",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6537058e-f649-4ca6-af62-32a521a5a836",
+      "data": [
+        {
+          "text": "how has ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " been going",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "993a41f0-4b9b-41d9-bb4a-edaf4a18afd3",
+      "data": [
+        {
+          "text": "how are you getting on",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1bbe21da-ab3a-4ffa-b51e-4a622ead7e3c",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " going",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "35ca3583-46cf-4b7b-bab0-cc6a1a5bb1eb",
+      "data": [
+        {
+          "text": "how ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you feeling",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "eb434486-3621-4c58-b1e6-63ea193e7490",
+      "data": [
+        {
+          "text": "are you okay",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b372b6dc-1433-4bfa-bfbf-21aaa2229972",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a51b07a2-e930-4545-9e14-6f9aaf3727cb",
+      "data": [
+        {
+          "text": "how have ",
+          "userDefined": false
+        },
+        {
+          "text": "you",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " been",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "26ddad61-c7ed-4b7f-a1e1-36393dcaee19",
+      "data": [
+        {
+          "text": "how ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "878f6eca-250d-4e51-8338-a219365b68cc",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " going",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8f60dc1e-3ccf-4fac-a2ef-8e7b0af64995",
+      "data": [
+        {
+          "text": "how's life",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "53d1839a-d1a8-4c38-8f5a-a45eba8993b0",
+      "data": [
+        {
+          "text": "I'm",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "fine",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " and you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "0b9567fe-1df5-4958-b7f2-6d4f78a7e997",
+      "data": [
+        {
+          "text": "is everything okay",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b5c92423-1f08-4d44-bfa1-49f37c109993",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " going ",
+          "userDefined": false
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "435da0c4-9f69-4d6b-9250-ae3bab03aba4",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " being",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "135bffa3-cd97-48c7-9b1e-8b303e5b0524",
+      "data": [
+        {
+          "text": "what was ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " like",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e188e440-7119-4264-9bb9-2d399ff111ef",
+      "data": [
+        {
+          "text": "hope",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " is going ",
+          "userDefined": false
+        },
+        {
+          "text": "well",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "790e88ff-329a-4112-bc00-0d8dfe340807",
+      "data": [
+        {
+          "text": "is everything ",
+          "userDefined": false
+        },
+        {
+          "text": "all",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " right",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "fa8d8cc9-5e6a-429d-98e0-d37ce4a4c00c",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you alright",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e6b50b56-09a3-445b-8955-2cbce845db76",
+      "data": [
+        {
+          "text": "how do you ",
+          "userDefined": false
+        },
+        {
+          "text": "feel",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e874d722-6e7d-418e-b5b6-0dca6b310d6c",
+      "data": [
+        {
+          "text": "how ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " the things going",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7bd87a37-771d-450f-b4a1-2df5e9a357c5",
+      "data": [
+        {
+          "text": "how has ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " been",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cf2e6fcd-75ec-4157-bc4e-b19aae314ce8",
+      "data": [
+        {
+          "text": "how's your ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " going",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c2f267e0-4da1-4118-ba1b-ca4436d46440",
+      "data": [
+        {
+          "text": "how ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you doing",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6280e2ae-9f2d-41ee-97c7-a95032c74631",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you having a ",
+          "userDefined": false
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "2a350bdd-85d3-414f-bb5d-35bfddc84758",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "morning",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so far",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "3d91a54f-d79c-46c1-8e86-00dfe4cec66b",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "morning",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " going",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b7a67e0b-23d8-473f-91f3-12909c75ee79",
+      "data": [
+        {
+          "text": "how ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " is going",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a4a73403-ada9-4e84-9522-80386b066d8d",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "742e37cc-d67d-45aa-9e22-1e69de4b1594",
+      "data": [
+        {
+          "text": "how ",
+          "userDefined": false
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you ",
+          "userDefined": false
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "770e030f-17b0-4ea2-ac39-bd83ca4b67f1",
+      "data": [
+        {
+          "text": "how was ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ",
+          "userDefined": false
+        },
+        {
+          "text": "day",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "50a9434a-b724-4733-b140-6c2fbf891f69",
+      "data": [
+        {
+          "text": "how's your day",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "4ed872d1-9afd-4f26-a92f-c41a03da16c1",
+      "data": [
+        {
+          "text": "how about you",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7c2c498a-fc42-44cb-a34e-e89455f35db8",
+      "data": [
+        {
+          "text": "how is ",
+          "userDefined": false
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " life",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}
