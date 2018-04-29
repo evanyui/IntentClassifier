@@ -7,7 +7,8 @@
         "want to know more about you",
         "introduce yourself",
         "tell me about your personality",
-        "want to know you better"
+        "want to know you better",
+        "what is your name"
     ],
     "responses": [
         "I'm a virtual agent.",
