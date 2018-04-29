@@ -4,7 +4,7 @@ def main():
     # recognizer = IntentClassifier()
     # recognizer.train()
     # recognizer.save("classifier.pickle")
-    recognizer = IntentClassifier.load("classifier.pickle")
+    recognizer = IntentClassifier.load("example_classifier.pickle")
     # recognizer.update([("How are you?", "hello")])
     # recognizer.addResponse("Sometimes, cry out loud might help.", "sad")
     print("Test Accuracy:", recognizer.test())
