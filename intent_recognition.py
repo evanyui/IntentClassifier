@@ -86,6 +86,11 @@ class IntentClassifier:
         label = self._cl.classify(target)
         return label
 
+    def getProbability(self, target, intent):
+        """Get probability of a phrase to an intent"""
+        guess = self._cl.prob_classify(target)
+        return round(guess.prob(intent), 2)
+
     def response(self, target):
         """Get a response according to the intent of the text"""
         responses = self._responses[self.classify(target)]
